@@ -32,5 +32,5 @@
 #### Скриншот схема
 Внутренние измерения
 <br/>
-<img src="dataTimes.png" alt="testing DWH" width="350" />
+<img src="dataTimes.png" alt="testing DWH" width="500" />
 
